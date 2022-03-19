@@ -1,6 +1,7 @@
 # Forecasting Net Profit for MercadoLibre
 This analysis uses time series forecasting to analyze MercadoLibre's financial and user data to determine ways to make the company grow. One goal is to find out if the ability to predict search traffic can translate into the ability to successfully trade the stock. Another goal is to forecast the revenue of MercadoLibre by using time series models. 
 
+![Forecast Plot Example](./forecast.png)
 ---
 
 ## Technologies 
